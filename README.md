@@ -5,7 +5,7 @@ Implemented [Lee algorithm](https://en.wikipedia.org/wiki/Lee_algorithm) based o
 - [Wikipedia arcticle on Path Finding algorithms](https://en.wikipedia.org/wiki/Pathfinding#Sample_algorithm) <br>
 - A* Pathfinding (E01: algorithm explanation) in the [Sebastian Lague's playlist](https://www.youtube.com/playlist?list=PLFt_AvWsXl0cq5Umv3pMC9SPnKjfp9eGW) <br>
 - YT video on [Pathfinding Algorithms](https://www.youtube.com/watch?v=X3x7BlLgS-4)
-
+- Habr post [Лабиринты: классификация, генерирование, поиск решений](https://habr.com/ru/post/445378/)
 ### Ideas for further development:
 1. Fix bugs when maze's dimensions increased
 2. Solve the <b> "bonus" </b> part: <br>

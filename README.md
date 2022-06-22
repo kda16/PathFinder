@@ -1,4 +1,4 @@
-# PathFinder - IEUK 22 work sample
+# Amazon Coding Challenge - IEUK 22 work sample
 Task description: [Amazon Coding Exercise - Pathfinding on a 2D Grid.pdf](https://github.com/kda16/PathFinder/files/8956526/Amazon.Coding.Exercise.-.Pathfinding.on.a.2D.Grid.pdf) <br>
 Implemented [Lee algorithm](https://en.wikipedia.org/wiki/Lee_algorithm) based on Breadth-First Search. <br>
 ## References:
